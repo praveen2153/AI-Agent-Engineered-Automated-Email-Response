@@ -1,7 +1,8 @@
-# AI-Agent-Engineered-Automated-Email-Response
+# AI and No-Code Automation Projects using n8n
 
->>Built an AI-powered automated email response agent using n8n, integrating Gmail with OpenAI’s GPT model to intelligently generate draft replies based on the content and context of incoming emails.
+>Google Analytics Insights Bot – Automated GA data extraction, trend analysis, and visualization to deliver weekly AI-generated insights and charts to stakeholders, reducing manual reporting workload.
 
->>Implemented a dynamic text classification system to categorize emails (promotions, security alerts), enabling accurate routing to specialized AI models for personalized response generation.
+> Engineered a no-code AI automation workflow in n8n integrating Gmail API and OpenAI to analyze incoming emails and generate context-aware draft responses, reducing manual email handling by 60%.
 
->>Designed and deployed a modular no-code workflow that automates the entire email handling process—from trigger to draft creation—reducing manual effort and improving operational efficiency.
+> Developed an intelligent SEO automation agent that performs comprehensive on-page audits, identifies optimization opportunities, and delivers actionable insights via automated email reports to improve search engine rankings.
+
